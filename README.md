@@ -1,2 +1,2 @@
 # sample git
-This is my first git experience
+This is a git repo
